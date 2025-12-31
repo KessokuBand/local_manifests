@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/huawei/eva" remote="github" name="KessoKUBand/android_device_huawei_eva" revision="lineage-20" />
+  <project path="device/huawei/hi3650-8-common" remote="github" name="KessoKUBand/android_device_huawei_eva" revision="lineage-20" />
+  <project path="kernel/huawei/hi3650-8" remote="github" name="hisi-oss/android_kernel_huawei_hi3650-8" revision="lineage-20" />
+  <project path="device/oppo/OP4A9D-kernel" remote="github" name="KessoKUBand/android_device_oppo_OP4A9D-kernel" revision="lineage-20" />
+  <project path="device/oppo/OP4A9D" remote="github" name="KessoKUBand/android_device_oppo_OP4A9D" revision="lineage-20" />
+  <project path="device/oppo/sm7250-common" remote="github" name="KessoKUBand/android_device_oppo_sm7250-common" revision="lineage-20" />
+  <project path="kernel/xiaomi/mt6895" remote="github" name="KessoKUBand/android_kernel_xiaomi_mt6895" revision="lineage-23.0" />
+</manifest>
